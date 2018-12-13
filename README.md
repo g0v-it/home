@@ -1,6 +1,6 @@
 ![Logo g0v.it](https://avatars3.githubusercontent.com/u/42692153?s=200&v=4)
 
-# G0V-IT : Chi siamo
+# Chi siamo
 
 **Non chiederti “perchè non c’è qualcuno che stia facendo questa cosa ?”. Tu sei “qualcuno”!
 (motto della comunità g0v.asia)**
