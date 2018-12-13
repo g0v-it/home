@@ -20,17 +20,19 @@ rilasciando il software prodotto a disposizione della comunità e adottando lice
 
 # Cosa facciamo
 
-- https://inps.g0v.it/ una rappresentazione dell'ultimo bilancio finanziaro consolidato dell'Istituto Nazionale di  Previdenza Sociale
-- https://budget.g0v.it/ la rappresentazione della Legge di Bilancio dello stato italiano
-
-
-# Cosa facciamo
-
-Tutto il software prodotto è rilasciato con licenza Open Source [su GitHub](https://github.com/g0v-it):
+Sviluppiamo software rilasciato con licenza Open Source:
 
 - https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
 - https://github.com/g0v-it/data-inps : The Smart Data Management Platform to feed https://inps.g0v.it/ application
 - https://github.com/g0v-it/data-budget : The Smart Data Management Platform to feed https://budget.g0v.it/ application 
 - https://github.com/g0v-it/web-budget : a VUE web frontend for Financial report visualization application.
 
+
+
+# Applicazion on-line
+
+- https://inps.g0v.it/ una rappresentazione dell'ultimo bilancio finanziaro consolidato dell'Istituto Nazionale di  Previdenza Sociale
+- https://budget.g0v.it/ la rappresentazione della Legge di Bilancio dello stato italiano
+
+Le applicazioni sono ottimizzate per essere utilizzate con uno schermo di buona risoluzione e con uno strumento di puntamento (es. mouse). La visualizzazione su smartphone è supportata ma con un set ridotto di funzioni.
 
