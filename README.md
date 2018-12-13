@@ -29,7 +29,7 @@ Sviluppiamo software rilasciato con licenza Open Source:
 
 
 
-# Applicazion on-line
+# Applicazioni on-line
 
 - https://inps.g0v.it/ una rappresentazione dell'ultimo bilancio finanziaro consolidato dell'Istituto Nazionale di  Previdenza Sociale
 - https://budget.g0v.it/ la rappresentazione della Legge di Bilancio dello stato italiano
