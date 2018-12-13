@@ -24,6 +24,13 @@ rilasciando il software prodotto a disposizione della comunità e adottando lice
 - https://budget.g0v.it/ la rappresentazione della Legge di Bilancio dello stato italiano
 
 
-Tutto il software è rilasciato con licenza Open Source [su GithUb](https://github.com/g0v-it)
+# Cosa facciamo
+
+Tutto il software prodotto è rilasciato con licenza Open Source [su GitHub](https://github.com/g0v-it):
+
+- https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
+- https://github.com/g0v-it/data-inps : The Smart Data Management Platform to feed https://inps.g0v.it/ application
+- https://github.com/g0v-it/data-budget : The Smart Data Management Platform to feed https://budget.g0v.it/ application 
+- https://github.com/g0v-it/web-budget : a VUE web frontend for Financial report visualization application.
 
 
