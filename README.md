@@ -9,7 +9,7 @@
 
 Il progetto g0v.it (pronuncia “gov zero punto it”) è una localizzazione della omonima iniziativa nata a aTaiwan.
 
-Ul team di g0v-it è stato creato dalla [Associazione Copernicani](https://copernicani.it) che
+g0v-it nasce da una iniziativa dalla [Associazione Copernicani](https://copernicani.it) che
 intende così contribuire a catalizzare la nascita di una comunità aperta di sviluppatori civici che 
 condividano il sostegno alla trasparenza delle informazioni e che costruiscano soluzioni tecnologiche 
 per il miglioramento della partecipazione e dell’informazione dei cittadini.
@@ -23,9 +23,9 @@ rilasciando il software prodotto a disposizione della comunità e adottando lice
 Sviluppiamo software rilasciato con licenza Open Source:
 
 - https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
-- https://github.com/g0v-it/data-inps : The Smart Data Management Platform to feed https://inps.g0v.it/ application
-- https://github.com/g0v-it/data-budget : The Smart Data Management Platform to feed https://budget.g0v.it/ application 
-- https://github.com/g0v-it/web-budget : a VUE web frontend for Financial report visualization application.
+- https://github.com/g0v-it/data-inps : la Smart Data Management Platform  che espone  i Linked Data relativi ai bilanci finanziari consolidati di Inps. Utilizzata da  https://inps.g0v.it/ 
+- https://github.com/g0v-it/data-budget : la Smart Data Management Platform  che espone  i Linked Data relativi alle leggi di bilancio dello stato Italiano. Utilizzata da   https://budget.g0v.it/ 
+- https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati relativi report finanziari. Utilizzata dia da  https://inps.g0v.it/  che da   https://budget.g0v.it/ 
 
 
 
