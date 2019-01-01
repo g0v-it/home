@@ -36,3 +36,5 @@ Sviluppiamo software rilasciato con licenza Open Source:
 
 Le applicazioni sono ottimizzate per essere utilizzate con uno schermo di buona risoluzione e con uno strumento di puntamento (es. mouse). La visualizzazione su smartphone è supportata ma con un set ridotto di funzioni.
 
+Le applicazioni richiedono un browser di nuova generazione, in grado di supportare le nuove funzioni javascript (i.e. edgem, chrome, firefox, safari) la versione IExplorer non è supportata.
+
