@@ -25,7 +25,7 @@ Sviluppiamo software rilasciato con licenza Open Source:
 - https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
 - https://github.com/g0v-it/data-inps : la Smart Data Management Platform  che espone  i Linked Data relativi ai bilanci finanziari consolidati di Inps. Utilizzata da  https://inps.g0v.it/ 
 - https://github.com/g0v-it/data-budget : la Smart Data Management Platform  che espone  i Linked Data relativi alle leggi di bilancio dello stato Italiano. Utilizzata da   https://budget.g0v.it/ 
-- https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati relativi report finanziari. Utilizzata dia da  https://inps.g0v.it/  che da   https://budget.g0v.it/ 
+- https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati relativi report finanziari. Utilizzata sia da  https://inps.g0v.it/  che da   https://budget.g0v.it/ 
 
 
 
