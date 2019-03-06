@@ -20,12 +20,13 @@ rilasciando il software prodotto a disposizione della comunità e adottando lice
 
 # Cosa facciamo
 
-Sviluppiamo software rilasciato con licenza Open Source:
+Sviluppiamo, contribuiamo aiutiamo la diffusione di progetti software i utilità civica, rilasciati con licenza Open Source:
 
 - https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
 - https://github.com/g0v-it/data-inps : la Smart Data Management Platform  che espone  i Linked Data relativi ai bilanci finanziari consolidati di Inps. Utilizzata da  https://inps.g0v.it/ 
 - https://github.com/g0v-it/data-budget : la Smart Data Management Platform  che espone  i Linked Data relativi alle leggi di bilancio dello stato Italiano. Utilizzata da   https://budget.g0v.it/ 
 - https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati relativi report finanziari. Utilizzata sia da  https://inps.g0v.it/  che da   https://budget.g0v.it/ 
+- https://github.com/fsbolgi/Italy-D3.js un progetto di Francesca Sbolgi dell'università di Pisa per analizzare l'evolozione della distribuzione dell'età della popolazione italiana dal 1952 al 2065
 
 
 
@@ -33,6 +34,7 @@ Sviluppiamo software rilasciato con licenza Open Source:
 
 - https://inps.g0v.it/ una rappresentazione dell'ultimo bilancio finanziaro consolidato dell'Istituto Nazionale di  Previdenza Sociale
 - https://budget.g0v.it/ la rappresentazione della Legge di Bilancio dello stato italiano
+- https://fsbolgi.github.io/Sciviz/homepage.html evolozione della distribuzione dell'età della popolazione italiana dal 1952 al 2065
 
 Le applicazioni sono ottimizzate per essere utilizzate con uno schermo di buona risoluzione e con uno strumento di puntamento (es. mouse). La visualizzazione su smartphone è supportata ma con un set ridotto di funzioni.
 
