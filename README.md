@@ -25,7 +25,7 @@ Sviluppiamo, contribuiamo aiutiamo la diffusione di progetti software i utilità
 - https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
 - https://github.com/g0v-it/data-inps : la Smart Data Management Platform  che espone  i Linked Data relativi ai bilanci finanziari consolidati di Inps. Utilizzata da  https://inps.g0v.it/ 
 - https://github.com/g0v-it/data-budget : la Smart Data Management Platform  che espone  i Linked Data relativi alle leggi di bilancio dello stato Italiano. Utilizzata da   https://budget.g0v.it/ 
-- https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati relativi report finanziari e qualsiasi tipo di dato quantitativo storicizzabile. Utilizzata  da  https://inps.g0v.it/ , da   https://budget.g0v.it/ e da https://agcom.g0v.it/
+- https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati r tipo di dato quantitativo storicizzabile. Utilizzata  da  https://inps.g0v.it/ , da   https://budget.g0v.it/ e da https://agcom.g0v.it/
 - https://github.com/fsbolgi/Italy-D3.js un progetto di Francesca Sbolgi dell'università di Pisa per analizzare l'evolozione della distribuzione dell'età della popolazione italiana dal 1952 al 2065
 - https://github.com/g0v-it/data-agcom : una Smart Data Management Platform  che espone  i Linked Data relativi alla presenza di politici in TV. Utilizzata da  https://agcom.g0v.it/ 
 
@@ -35,6 +35,8 @@ Sviluppiamo, contribuiamo aiutiamo la diffusione di progetti software i utilità
 - https://inps.g0v.it/ una rappresentazione dell'ultimo bilancio finanziaro consolidato dell'Istituto Nazionale di  Previdenza Sociale
 - https://budget.g0v.it/ la rappresentazione della Legge di Bilancio dello stato italiano
 - https://fsbolgi.github.io/Sciviz/homepage.html evolozione della distribuzione dell'età della popolazione italiana dal 1952 al 2065
+- https://agcom.g0v.it/ analisi del tempo di parola di soggetti politici in programmi televisivi.
+
 
 Le applicazioni sono ottimizzate per essere utilizzate con uno schermo di buona risoluzione e con uno strumento di puntamento (es. mouse). La visualizzazione su smartphone è supportata ma con un set ridotto di funzioni.
 
