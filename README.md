@@ -7,7 +7,7 @@
 
 ![g0v framework](https://copernicani.it/wp-content/uploads/g0v-about-en-300x293.png)
 
-Il progetto g0v.it (pronuncia “gov zero punto it”) è una localizzazione della omonima iniziativa nata a aTaiwan.
+Il progetto g0v.it (pronuncia “gov zero punto it”) è una localizzazione della [omonima iniziativa nata a aTaiwan](https://g0v.asia).
 
 g0v-it nasce da una iniziativa dalla [Associazione Copernicani](https://copernicani.it) che
 intende così contribuire a catalizzare la nascita di una comunità aperta di sviluppatori civici che 
