@@ -18,8 +18,3 @@ Visita i nostri repositories su GitHub: https://github.com/g0v-it
 - https://fsbolgi.github.io/Sciviz/homepage.html evolozione della distribuzione dell'età della popolazione italiana dal 1952 al 2065
 - https://agcom.g0v.it/ analisi del tempo di parola di soggetti politici in programmi televisivi.
 
-
-Le applicazioni sono ottimizzate per essere utilizzate con uno schermo di buona risoluzione e con uno strumento di puntamento (es. mouse). La visualizzazione su smartphone è supportata ma con un set ridotto di funzioni.
-
-Le applicazioni richiedono un browser di nuova generazione, in grado di supportare le nuove funzioni javascript (i.e. edgem, chrome, firefox, safari) la versione IExplorer non è supportata.
-
