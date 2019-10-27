@@ -3,7 +3,6 @@
 # Chi siamo
 
 **Non chiederti “perchè non c’è qualcuno che stia facendo questa cosa ?”. Tu sei “qualcuno”!**
-(motto della comunità [g0v.asia](https://g0v.asia/))
 
 ![g0v framework](https://copernicani.it/wp-content/uploads/g0v-about-en-300x293.png)
 
