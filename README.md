@@ -1,7 +1,5 @@
 ![Logo g0v.it](https://avatars3.githubusercontent.com/u/42692153?s=200&v=4)
 
-# Chi siamo
-
 **Non chiederti “perchè non c’è qualcuno che stia facendo questa cosa ?”. Tu sei “qualcuno”!**
 
 ![g0v framework](https://copernicani.it/wp-content/uploads/g0v-about-en-300x293.png)
