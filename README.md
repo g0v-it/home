@@ -7,27 +7,9 @@
 
 ![g0v framework](https://copernicani.it/wp-content/uploads/g0v-about-en-300x293.png)
 
-Il progetto g0v.it (pronuncia “gov zero punto it”) è una localizzazione della [omonima iniziativa nata a aTaiwan](https://g0v.asia).
+Visita il nostro sito  https://g0v.it/
 
-g0v-it nasce da una iniziativa dalla [Associazione Copernicani](https://copernicani.it) che
-intende così contribuire a catalizzare la nascita di una comunità aperta di sviluppatori civici che 
-condividano il sostegno alla trasparenza delle informazioni e che costruiscano soluzioni tecnologiche 
-per il miglioramento della partecipazione e dell’informazione dei cittadini.
-
-Copernicani si pone come uno dei contributori della comunità g0v.it, in coerenza con il proprio Statuto, 
-rilasciando il software prodotto a disposizione della comunità e adottando licenze aperte.
-
-
-# Cosa facciamo
-
-Sviluppiamo, contribuiamo aiutiamo la diffusione di progetti software i utilità civica, rilasciati con licenza Open Source:
-
-- https://github.com/g0v-it/ontologies : semantic Web application profiles, ontologies and controlled vocabularies
-- https://github.com/g0v-it/data-inps : la Smart Data Management Platform  che espone  i Linked Data relativi ai bilanci finanziari consolidati di Inps. Utilizzata da  https://inps.g0v.it/ 
-- https://github.com/g0v-it/data-budget : la Smart Data Management Platform  che espone  i Linked Data relativi alle leggi di bilancio dello stato Italiano. Utilizzata da   https://budget.g0v.it/ 
-- https://github.com/g0v-it/web-budget : il codice della SPA (single page application) che visualizza dati r tipo di dato quantitativo storicizzabile. Utilizzata  da  https://inps.g0v.it/ , da   https://budget.g0v.it/ e da https://agcom.g0v.it/
-- https://github.com/fsbolgi/Italy-D3.js un progetto di Francesca Sbolgi dell'università di Pisa per analizzare l'evolozione della distribuzione dell'età della popolazione italiana dal 1952 al 2065
-- https://github.com/g0v-it/data-agcom : una Smart Data Management Platform  che espone  i Linked Data relativi alla presenza di politici in TV. Utilizzata da  https://agcom.g0v.it/ 
+Visita i nostri repositories su GitHub: https://github.com/g0v-it
 
 
 # Applicazioni on-line
